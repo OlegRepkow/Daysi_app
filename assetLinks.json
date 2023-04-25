@@ -1,9 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.example.daysi",
-      "sha256_cert_fingerprints":
-      ["5A:2A:5A:70:B9:80:12:91:8C:F2:B4:01:BD:4C:05:3E:4C:08:CE:0C:B4:D2:AE:24:E1:4D:FD:A2:BF:34:AA:B7"]
-    }
-  }]
